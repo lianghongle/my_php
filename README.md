@@ -1,9 +1,9 @@
-my_php
+项目名称：my_php
 ===========================
+描述：
 
 
-
-DIRECTORY STRUCTURE
+目录结构（DIRECTORY STRUCTURE）
 -------------------
 
 ```
@@ -13,28 +13,13 @@ framework/           core framework code
 tests/               tests of the core framework code
 ```
 
+后续计划（TO DO）
+-------------------
 
-REQUIREMENTS
-------------
-
-The minimum requirement by Yii is that your Web server supports PHP 5.4.
-
-
-DOCUMENTATION
--------------
+1.搭建初始项目目录
 
 
-
-
-HOW TO PARTICIPATE
-------------------
-
-### Your participation to Yii 2 development is very welcome!
-
-You may participate in the following ways:
-
-
-CHANGE LOG
+更新日志（CHANGE LOG）
 ------------------
 
 V0.0.1(2015-12-18 10:25:19)
